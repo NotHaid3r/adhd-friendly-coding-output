@@ -73,6 +73,8 @@ But you had to **hunt for it**.
 
 With ADHD-Friendly Output:
 
+     GO AHEAD AND TRY IT OUT YOURSELF
+
 ### ✅ Fixed
 
 The authentication middleware was running before the session middleware.
